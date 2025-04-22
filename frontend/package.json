@@ -13,6 +13,8 @@
     "@tailwindcss/vite": "^4.1.4",
     "autoprefixer": "^10.4.21",
     "axios": "^1.8.4",
+    "chat-app": "file:..",
+    "framer-motion": "^12.8.0",
     "lucide-react": "^0.501.0",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
